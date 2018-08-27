@@ -24,3 +24,7 @@ Some of the content of this repo might overlap with that found in these other re
 #### [ASEAN Journal on Science and Technology for Development](http://ajstd.org) (AJSTD)
 - License: [Creative Commons Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)
 - Attribute: ASEAN Journal on Science and Technology for Development
+
+#### [Jurnal Kesehatan Reproduksi](https://jurnal.ugm.ac.id/jkr)
+- License: [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/)
+- Attribute: Jurnal Kesehatan Reproduksi
