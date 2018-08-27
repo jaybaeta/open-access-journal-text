@@ -9,7 +9,7 @@ Some of the content of this repo might overlap with that found in these other re
 
 ### Journals featured in this repo:
 
-#### [Indonesian Journal of Biotechnology](https://jurnal.ugm.ac.id/ijbiotech)
+#### [Indonesian Journal of Biotechnology](https://jurnal.ugm.ac.id/ijbiotech) (IJBiotech)
 - License: [Creative Commons Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)
 - Attribute: Siti Nurleily Marliana and Joaquim Baeta
 
@@ -17,10 +17,10 @@ Some of the content of this repo might overlap with that found in these other re
 - License: [Creative Commons Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)
 - Attribute: Humaniora
 
-#### [Jurnal Rekayasa Proses](https://jurnal.ugm.ac.id/jrekpros)
+#### [Jurnal Rekayasa Proses](https://jurnal.ugm.ac.id/jrekpros) (J. Rek. Pros.)
 - License: [Creative Commons Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)
 - Attribute: Jurnal Rekayasa Proses
 
-#### [ASEAN Journal on Science and Technology for Development](http://ajstd.org)
+#### [ASEAN Journal on Science and Technology for Development](http://ajstd.org) (AJSTD)
 - License: [Creative Commons Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)
 - Attribute: ASEAN Journal on Science and Technology for Development
