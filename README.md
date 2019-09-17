@@ -49,7 +49,7 @@ Some of the content of this repo might overlap with that found in these other re
 
 #### [Journal of Leadership in Organizations](https://jurnal.ugm.ac.id/leadership) (JLO)
 - License: [Creative Commons Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)
-- Attribute: Siti Nurleily Marliana and Joaquim Baeta
+- Attribute: Joaquim Baeta
 - Included text:
   + Copyright notice
 
@@ -66,6 +66,12 @@ Some of the content of this repo might overlap with that found in these other re
 - Included text:
   + Copyright notice
   + Open access policy 
+
+#### [Review of Primary Care Practice and Education](https://jurnal.ugm.ac.id/rpcpe) (RPCPE)
+- License: [Creative Commons Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)
+- Attribute: Siti Nurleily Marliana and Joaquim Baeta
+- Included text:
+  + Copyright notice
 
 ---
 
