@@ -54,16 +54,16 @@ Some of the content of this repo might overlap with that found in these other re
 - Included text:
   + Copyright notice
 
-#### [Jurnal Rekayasa Proses](https://jurnal.ugm.ac.id/jrekpros) (J. Rek. Pros.)
-- License: [Creative Commons Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)
-- Attribute: Jurnal Rekayasa Proses
+#### [Jurnal Kesehatan Reproduksi](https://jurnal.ugm.ac.id/jkr)
+- License: [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/)
+- Attribute: Jurnal Kesehatan Reproduksi
 - Included text:
   + Copyright notice
   + Open access policy 
 
-#### [Jurnal Kesehatan Reproduksi](https://jurnal.ugm.ac.id/jkr)
-- License: [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/)
-- Attribute: Jurnal Kesehatan Reproduksi
+#### [Jurnal Rekayasa Proses](https://jurnal.ugm.ac.id/jrekpros) (J. Rek. Pros.)
+- License: [Creative Commons Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)
+- Attribute: Jurnal Rekayasa Proses
 - Included text:
   + Copyright notice
   + Open access policy 
