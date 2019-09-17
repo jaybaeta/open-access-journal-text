@@ -4,10 +4,6 @@
 
 - Articles are published under a [Creative Commons Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/) license. In addition to being freely accessible, they may be copied, shared, or adapted for any purpose in any medium, as long as appropriate credit is given to the author and IJBiotech and changes are indicated.
 
-# Humaniora
-
-This journal provides immediate open access to its content on the principle that making research freely available to the public supports a greater global exchange of knowledge.
-
 # J. Rek. Pros.
 
 This journal provides immediate open access to its content on the principle that making research freely available to the public supports a greater global exchange of knowledge.
