@@ -13,11 +13,11 @@ Some of the content of this repo might overlap with that found in these other re
 - License: [Creative Commons Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)
 - Attribute: Siti Nurleily Marliana and Joaquim Baeta
 
-#### [Gadjah Mada Journal of Psychology](https://jurnal.ugm.ac.id/gamajop) (GamaJoP)
+#### [Gadjah Mada Journal of Professional Psychology](https://jurnal.ugm.ac.id/gamajpp) (GamaJPP)
 - License: [Creative Commons Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)
 - Attribute: Joaquim Baeta
 
-#### [Gadjah Mada Journal of Professional Psychology](https://jurnal.ugm.ac.id/gamajpp) (GamaJPP)
+#### [Gadjah Mada Journal of Psychology](https://jurnal.ugm.ac.id/gamajop) (GamaJoP)
 - License: [Creative Commons Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)
 - Attribute: Joaquim Baeta
 
