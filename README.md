@@ -9,9 +9,9 @@ Some of the content of this repo might overlap with that found in these other re
 
 ### Journals featured in this repo:
 
-#### [Indonesian Journal of Biotechnology](https://jurnal.ugm.ac.id/ijbiotech) (IJBiotech)
+#### [ASEAN Journal on Science and Technology for Development](http://ajstd.org) (AJSTD)
 - License: [Creative Commons Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)
-- Attribute: Siti Nurleily Marliana and Joaquim Baeta
+- Attribute: ASEAN Journal on Science and Technology for Development
 - Included text:
   + Copyright notice
   + Open access policy 
@@ -35,6 +35,13 @@ Some of the content of this repo might overlap with that found in these other re
   + Copyright notice
   + Open access policy 
 
+#### [Indonesian Journal of Biotechnology](https://jurnal.ugm.ac.id/ijbiotech) (IJBiotech)
+- License: [Creative Commons Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)
+- Attribute: Siti Nurleily Marliana and Joaquim Baeta
+- Included text:
+  + Copyright notice
+  + Open access policy 
+
 #### [Journal of Community Empowerment for Health](https://jurnal.ugm.ac.id/jcoemph) (JCOEMPH)
 - License: [Creative Commons Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)
 - Attribute: Joaquim Baeta
@@ -50,13 +57,6 @@ Some of the content of this repo might overlap with that found in these other re
 #### [Jurnal Rekayasa Proses](https://jurnal.ugm.ac.id/jrekpros) (J. Rek. Pros.)
 - License: [Creative Commons Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)
 - Attribute: Jurnal Rekayasa Proses
-- Included text:
-  + Copyright notice
-  + Open access policy 
-
-#### [ASEAN Journal on Science and Technology for Development](http://ajstd.org) (AJSTD)
-- License: [Creative Commons Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)
-- Attribute: ASEAN Journal on Science and Technology for Development
 - Included text:
   + Copyright notice
   + Open access policy 
