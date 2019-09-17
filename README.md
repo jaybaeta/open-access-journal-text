@@ -1,6 +1,6 @@
 This repo is a collection of the textual contents of various open access journals. Its purpose is to serve as a central reference for the different (or similar) ways in which these journals deliver the same message. 
 
-Because everything is licensed under a Creative Commons license, everything in this repo can be reused and copied, but proper attribution should be given to the respective author/journal. (But do note that copying a different journal's text wholesale is lazy.)
+Because everything is licensed under a Creative Commons license, everything in this repo can be reused and copied.<sup>1,2</sup> If you do so, however, appropriate attribution **must** be given to the respective author/journal.
 
 Some of the content of this repo might overlap with that found in these other repos:
 
@@ -66,3 +66,9 @@ Some of the content of this repo might overlap with that found in these other re
 - Included text:
   + Copyright notice
   + Open access policy 
+
+---
+
+<sup>1</sup> Please note that copying the entirety of a different journal's text is lazy, and potentially dangerous if you do not know what you're copying.
+
+<sup>2</sup> The rel attributes of license urls (used for metadata purposes) are not included. This attribute is trivial to obtain: just [choose your license](https://creativecommons.org/choose/) and copy everything in the relevant `<a>` tag. This disclaimer exists to ensure that you consciously choose your license.
