@@ -33,7 +33,7 @@ IJBiotech relies on the impartiality and discretion of reviewers, and as a revie
 
 ## Conducting the review
 
-###IJBiotech's review procedure
+### IJBiotech's review procedure
 
 IJBiotech uses an online submission and peer review system. When a reviewer is requested to review a paper submitted to IJBiotech, they will have a journal account created for them, through which they will be able to read the abstract and decide on whether to agree to review it.
 
