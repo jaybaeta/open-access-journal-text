@@ -80,6 +80,11 @@ Some of the content of this repo might overlap with that found in these other re
   + Copyright notice
   + Open access policy 
 
+#### Keluwih: Jurnal Kesehatan dan Kedokteran
+- License: [Creative Commons Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)
+- Attribute: Joaquim Baeta
+- Included text:
+  + Copyright notice
 
 #### [Media Pharmaceutica Indonesiana](http://www.journal.ubaya.ac.id/index.php/MPI/) (MPI)
 - License: [Creative Commons Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)
