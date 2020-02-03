@@ -98,6 +98,11 @@ Some of the content of this repo might overlap with that found in these other re
 - Attribute: Sciscitatio
   + Copyright notice combined with open access policy
 
+#### [YUSTIKA](http://www.journal.ubaya.ac.id/index.php/yustika)
+- License: [Creative Commons Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)
+- Attribute: Joaquim Baeta
+  + Copyright notice
+
 ---
 
 <sup>1</sup> Please note that copying the entirety of a different journal's text is lazy, and potentially dangerous if you do not know what you're copying.
