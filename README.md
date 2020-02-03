@@ -7,7 +7,7 @@ Some of the content of this repo might overlap with that found in these other re
 - https://github.com/jaybaeta/ijbiotech
 - https://github.com/jaybaeta/ajstd
 
-### Journals featured in this repo:
+## Journals featured in this repo
 
 #### [ANIMA](http://www.journal.ubaya.ac.id/index.php/jpa)
 - License: [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International](http://creativecommons.org/licenses/by-nc-sa/4.0/)
@@ -113,6 +113,13 @@ Some of the content of this repo might overlap with that found in these other re
 - License: [Creative Commons Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)
 - Attribute: Joaquim Baeta
   + Copyright notice
+
+## Some stats
+
+
+Most commonly used licenses: 
+
+![](https://img.shields.io/badge/CC%20BY%204.0-2-brightgreen) ![](https://img.shields.io/badge/CC%20BY--SA%204.0-13-green) ![](https://img.shields.io/badge/CC%20BY--NC--SA%204.0-2-yellowgreen)
 
 ---
 
