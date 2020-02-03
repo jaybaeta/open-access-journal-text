@@ -58,6 +58,13 @@ Copyright on articles is held by the journal, with authors required to sign a co
 
 By submitting to JLO, authors grant any third party the right to use their article to the extent provided by the [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0).
 
+# Jurnal Bisnis Terapan
+
+- Articles published in Jurnal Bisnis Terapan are licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-nc-sa/4.0/) (CC BY-NC-SA 4.0) license, which permits anyone to copy, transform, or redistribute articles for any lawful purpose in any medium, provided appropriate credit is given to the original author(s) and Jurnal Bisnis Terapan is recognized as its original publisher. A link to this license should also be provided. Any derivative work of an article published in Jurnal Bisnis Terapan must also be shared under the same (or compatible) license.
+
+- Both copyright and publishing rights on articles are retained by the respective author(s), without restrictions. Only a non-exclusive license is granted to Jurnal Bisnis Terapan to publish the article and identify itself as its original publisher.
+
+
 # Jurnal Kesehatan Reproduksi
 
 All articles published in Jurnal Kesehatan Reproduksi are licensed under a [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/) license, which permits anyone to copy, transform, or redistribute articles for any lawful purpose in any medium, including commercially, as long as appropriate credit is given to the original author(s), Jurnal Kesehatan Reproduksi is recognized as its original publisher, and a link to the license is provided. Changes should also be indicated.

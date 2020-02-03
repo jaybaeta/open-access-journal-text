@@ -59,6 +59,13 @@ Some of the content of this repo might overlap with that found in these other re
 - Included text:
   + Copyright notice
 
+
+#### [Jurnal Bisnis Terapan](http://www.journal.ubaya.ac.id/index.php/JIBT/) (JBT)
+- License: [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International](http://creativecommons.org/licenses/by-nc-sa/4.0/)
+- Attribute: Joaquim Baeta
+- Included text:
+  + Copyright notice
+
 #### [Jurnal Kesehatan Reproduksi](https://jurnal.ugm.ac.id/jkr)
 - License: [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/)
 - Attribute: Jurnal Kesehatan Reproduksi
