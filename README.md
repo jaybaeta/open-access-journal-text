@@ -73,12 +73,18 @@ Some of the content of this repo might overlap with that found in these other re
   + Copyright notice
   + Open access policy 
 
+
+#### [Media Pharmaceutica Indonesiana](http://www.journal.ubaya.ac.id/index.php/MPI/) (MPI)
+- License: [Creative Commons Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)
+- Attribute: Joaquim Baeta
+- Included text:
+  + Copyright notice
+
 #### [Review of Primary Care Practice and Education](https://jurnal.ugm.ac.id/rpcpe) (RPCPE)
 - License: [Creative Commons Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)
 - Attribute: Siti Nurleily Marliana and Joaquim Baeta
 - Included text:
   + Copyright notice
-
 
 #### [Sciscitatio](https://sciscitatio.ukdw.ac.id/index.php/sciscitatio)
 - License: [Creative Commons Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)
