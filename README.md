@@ -19,7 +19,11 @@ Some of the content of this repo might overlap with that found in these other re
 - License: [Creative Commons Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)
 - Attribute: ASEAN Journal on Science and Technology for Development
 - Included text:
-  + Copyright notice
+  + Author guidelines
+  + Editorial and peer review process
+  + Open access and copyright policy
+  + Plagiarism policy
+  + Reviewer guidelines
 
 #### [Gadjah Mada Journal of Professional Psychology](https://jurnal.ugm.ac.id/gamajpp) (GamaJPP)
 - License: [Creative Commons Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)
