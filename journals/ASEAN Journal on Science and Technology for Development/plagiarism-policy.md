@@ -1,6 +1,6 @@
 # Plagiarism Policy
 
-All articles submitted to the <i>ASEAN Journal on Science & Technology for Development</i> are screened for plagiarism (or similarity with previously published work) using the iThenticate anti-plagiarism software.
+All articles submitted to the *ASEAN Journal on Science & Technology for Development* are screened for plagiarism (or similarity with previously published work) using the iThenticate anti-plagiarism software.
 
 We take a common sense approach to plagiarism: articles are processed under the good faith notion that they are wholly original and any reused content has been appropriately attributed. Incidents of high similarity are assessed individually, with some leeway given in the case of materials and methods (owing to the replicability rule of science, some methods can overlap with that of past research).
 
