@@ -1,0 +1,9 @@
+# ASEAN Journal on Science and Technology for Development
+
+The *ASEAN Journal on Science & Technology for Development* provides immediate open access to published articles. We mean open access in both the [*gratis* and *libre*](https://dash.harvard.edu/handle/1/4322580) sense: free of charge and free of any permission barrier. Articles are distributed under the terms of the [Creative Commons Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/) (CC BY-SA) license. This means that anyone is free to read, download, print, copy, search, crawl for indexing, link to the full text, transform, pass as data into software, or redistribute  articles for any lawful purpose in any medium, without requiring prior permission from either the author(s) or AJSTD, provided they give appropriate attribution[1] to the original author(s) and AJSTD, link to the license, indicate if changes were made, and redistribute any derivative work under the same license.
+
+Copyright on articles is retained by the respective author(s), without restrictions. A non-exclusive license is granted to AJSTD to publish the article and identify itself as its original publisher, along with the commercial right to include the article in a hardcopy issue for sale to libraries and individuals.
+
+Although the conditions of the CC BY-SA license don't apply to authors (as the copyright holder of your article, you have no restrictions on your rights), by submitting to AJSTD, authors recognize the rights of readers, and must grant any third party the right to use their article to the extent provided by the license.
+
+[1] Outside of the academic context, where citations are used, we recommend the TASL method: the title of the article, its author(s), a link to the article on the AJSTD website, and a link to the license.
