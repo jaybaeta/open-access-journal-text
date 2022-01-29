@@ -1,0 +1,7 @@
+# Plagiarism Policy
+
+All articles submitted to the <i>ASEAN Journal on Science & Technology for Development</i> are screened for plagiarism (or similarity with previously published work) using the iThenticate anti-plagiarism software.
+
+We take a common sense approach to plagiarism: articles are processed under the good faith notion that they are wholly original and any reused content has been appropriately attributed. Incidents of high similarity are assessed individually, with some leeway given in the case of materials and methods (owing to the replicability rule of science, some methods can overlap with that of past research).
+
+Egregious cases of plagiarism are dealt with immediately, and can include contacting each author's institution, as well as blacklisting them from further submissions to AJSTD. This encompasses (and is not limited to) submitting to AJSTD with the intention of misleading the journal as to the research's provenance, presenting someone else's work as their own, or publishing an article that's already been published elsewhere (also known as self-plagiarism), or submitting an article that contains significant copying of someone else's work (even with a citation given, we do not consider it acceptable to copy entire passages written by someone else), missing or deceptive attribution, or inaccurate authorship (work written in tandem with someone else who is not credited, especially with the aim of violating our publication ethics).
