@@ -11,12 +11,14 @@ Some of the content of this repo might overlap with that found in these other re
 
 #### [ANIMA](https://journal.ubaya.ac.id/index.php/jpa)
 - License: [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International](http://creativecommons.org/licenses/by-nc-sa/4.0/)
+- Author rights: authors retain
 - Attribute: Joaquim Baeta
 - Included text:
   + Copyright notice
 
 #### [ASEAN Journal on Science and Technology for Development](http://ajstd.org) (AJSTD)
 - License: [Creative Commons Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)
+- Author rights: authors retain
 - Attribute: ASEAN Journal on Science and Technology for Development
 - Included text:
   + Author guidelines
