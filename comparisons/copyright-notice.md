@@ -101,6 +101,12 @@ Copyright on articles is retained by the respective author(s), without restricti
 
 By publishing in MPI, authors grant any third party the right to use their article to the extent provided by the CC BY-SA license.
 
+# Poetika: Jurnal Ilmu Sastra
+
+Poetika: Jurnal Ilmu Sastra publishes its articles under the terms of the ![Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/), with copyright held by the journal. This means anyone can copy, transform, or redistribute articles for any lawful purpose in any medium, provided they give appropriate credit to the original author(s) and Poetika, link to the license, indicate if changes were made, and redistribute any derivative work under the same license.
+
+If accepted, authors will be asked to sign a copyright transfer agreement.
+
 # Review of Primary Care Practice and Education
 
 - Articles published in IJBiotech are licensed under a [Creative Commons Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/) license. You are free to copy, transform, or redistribute articles for any lawful purpose in any medium, provided you give appropriate credit to the original author(s) and IJBiotech, link to the license, indicate if changes were made, and redistribute any derivative work under the same license.
