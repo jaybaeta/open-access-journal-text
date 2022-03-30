@@ -7,121 +7,96 @@ Some of the content of this repo might overlap with that found in these other re
 - https://github.com/jaybaeta/ijbiotech
 - https://github.com/jaybaeta/ajstd
 
-## Journals featured in this repo
+## ![](https://img.shields.io/badge/journals%20represented-18-blue) Journals featured in this repo
 
 #### [ANIMA](https://journal.ubaya.ac.id/index.php/jpa)
-- License: [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International](http://creativecommons.org/licenses/by-nc-sa/4.0/)
-- Author rights: authors retain
-- Attribute: Joaquim Baeta
-- Included text:
-  + Copyright notice
+&#9878; [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International license](http://creativecommons.org/licenses/by-nc-sa/4.0/)  
+&#128483; Authors retain copyright  
+&#127796; Attribute: Joaquim Baeta  
+&#128220; Text in this repo: copyright notice
 
 #### [ASEAN Journal on Science and Technology for Development](http://ajstd.org) (AJSTD)
-- License: [Creative Commons Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)
-- Author rights: authors retain
-- Attribute: ASEAN Journal on Science and Technology for Development
-- Included text:
-  + Author guidelines
-  + Editorial and peer review process
-  + Open access and copyright policy
-  + Plagiarism policy
-  + Reviewer guidelines
+&#9878; [Creative Commons Attribution-ShareAlike 4.0 International license](https://creativecommons.org/licenses/by-sa/4.0/)  
+&#128483; Authors retain copyright  
+&#127796; Attribute: ASEAN Journal on Science and Technology for Development  
+&#128220; Text in this repo: author guidelines, editorial and peer review process, open access and copyright policy, plagiarism policy, reviewer guidelines
 
 #### [Gadjah Mada Journal of Professional Psychology](https://jurnal.ugm.ac.id/gamajpp) (GamaJPP)
-- License: [Creative Commons Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)
-- Attribute: Joaquim Baeta
-- Included text:
-  + Copyright notice
+&#9878; License: [Creative Commons Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)  
+&#127796; Attribute: Joaquim Baeta  
+&#128220; Text in this repo: copyright notice
 
 #### [Gadjah Mada Journal of Psychology](https://jurnal.ugm.ac.id/gamajop) (GamaJoP)
-- License: [Creative Commons Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)
-- Attribute: Joaquim Baeta
-- Included text:
-  + Copyright notice
+&#9878; License: [Creative Commons Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)  
+&#127796; Attribute: Joaquim Baeta  
+&#128220; Text in this repo: copyright notice
 
 #### [Humaniora](https://jurnal.ugm.ac.id/jurnal-humaniora)
-- License: [Creative Commons Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)
-- Attribute: Humaniora
-- Included text:
-  + Copyright notice
-  + Open access policy 
+&#9878; License: [Creative Commons Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)  
+&#127796; Attribute: Humaniora  
+&#128220; Text in this repo: copyright notice, open access policy
 
 #### [Indonesian Journal of Biotechnology](https://jurnal.ugm.ac.id/ijbiotech) (IJBiotech)
-- License: [Creative Commons Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)
-- Attribute: Siti Nurleily Marliana and Joaquim Baeta
-- Included text:
-  + Copyright notice
-  + Open access policy 
+&#9878; License: [Creative Commons Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)  
+&#127796; Attribute: Siti Nurleily Marliana and Joaquim Baeta  
+&#128220; Text in this repo: copyright notice, open access policy
 
 #### [Journal of Community Empowerment for Health](https://jurnal.ugm.ac.id/jcoemph) (JCOEMPH)
-- License: [Creative Commons Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)
-- Attribute: Joaquim Baeta
-- Included text:
-  + Copyright notice
+&#9878; License: [Creative Commons Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)  
+&#127796; Attribute: Joaquim Baeta  
+&#128220; Text in this repo: copyright notice
 
 #### [Journal of Leadership in Organizations](https://jurnal.ugm.ac.id/leadership) (JLO)
-- License: [Creative Commons Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)
-- Attribute: Joaquim Baeta
-- Included text:
-  + Copyright notice
-
+&#9878; License: [Creative Commons Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)  
+&#127796; Attribute: Joaquim Baeta  
+&#128220; Text in this repo: copyright notice
 
 #### [Jurnal Bisnis Terapan](https://journal.ubaya.ac.id/index.php/JIBT/) (JBT)
-- License: [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International](http://creativecommons.org/licenses/by-nc-sa/4.0/)
-- Attribute: Joaquim Baeta
-- Included text:
-  + Copyright notice
+&#9878; License: [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International](http://creativecommons.org/licenses/by-nc-sa/4.0/)  
+&#127796; Attribute: Joaquim Baeta  
+&#128220; Text in this repo: copyright notice
 
 #### [Jurnal Kesehatan Reproduksi](https://jurnal.ugm.ac.id/jkr)
-- License: [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/)
-- Attribute: Jurnal Kesehatan Reproduksi
-- Included text:
-  + Copyright notice
-  + Open access policy 
+&#9878; License: [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/)  
+&#127796; Attribute: Jurnal Kesehatan Reproduksi  
+&#128220; Text in this repo: copyright notice, open access policy
 
 #### [Jurnal Rekayasa Proses](https://jurnal.ugm.ac.id/jrekpros) (J. Rek. Pros.)
-- License: [Creative Commons Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)
-- Attribute: Jurnal Rekayasa Proses
-- Included text:
-  + Copyright notice
-  + Open access policy 
+&#9878; License: [Creative Commons Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)  
+&#127796; Attribute: Jurnal Rekayasa Proses  
+&#128220; Text in this repo: copyright notice, open access policy
 
 #### [Keluwih: Jurnal Kesehatan dan Kedokteran](https://journal.ubaya.ac.id/index.php/kesdok)
-- License: [Creative Commons Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)
-- Attribute: Joaquim Baeta
-- Included text:
-  + Copyright notice
+&#9878; License: [Creative Commons Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)  
+&#127796; Attribute: Joaquim Baeta  
+&#128220; Text in this repo: copyright notice
 
 #### [Manajemen & Bisnis](http://www.journalmabis.org/mabis)
-- License: [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/)
-- Attribute: Joaquim Baeta
-- Included text:
-  + Copyright notice
+&#9878; License: [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/)  
+&#127796; Attribute: Joaquim Baeta  
+&#128220; Text in this repo: copyright notice
 
 #### [Media Pharmaceutica Indonesiana](https://journal.ubaya.ac.id/index.php/MPI/) (MPI)
-- License: [Creative Commons Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)
-- Attribute: Joaquim Baeta
-- Included text:
-  + Copyright notice
+&#9878; License: [Creative Commons Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)  
+&#127796; Attribute: Joaquim Baeta  
+&#128220; Text in this repo: copyright notice
 
 #### [Review of Primary Care Practice and Education](https://jurnal.ugm.ac.id/rpcpe) (RPCPE)
-- License: [Creative Commons Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)
-- Attribute: Siti Nurleily Marliana and Joaquim Baeta
-- Included text:
-  + Copyright notice
+&#9878; License: [Creative Commons Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)  
+&#127796; Attribute: Siti Nurleily Marliana and Joaquim Baeta  
+&#128220; Text in this repo: copyright notice
 
 #### [Sciscitatio](https://sciscitatio.ukdw.ac.id/index.php/sciscitatio)
-- License: [Creative Commons Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)
-- Attribute: Sciscitatio
-  + Copyright notice combined with open access policy
+&#9878; License: [Creative Commons Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)  
+&#127796; Attribute: Sciscitatio  
+&#128220; Text in this repo: copyright notice combined with open access policy
 
 #### [YUSTIKA](https://journal.ubaya.ac.id/index.php/yustika)
-- License: [Creative Commons Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)
-- Attribute: Joaquim Baeta
-  + Copyright notice
+&#9878; License: [Creative Commons Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)  
+&#127796; Attribute: Joaquim Baeta  
+&#128220; Text in this repo: copyright notice
 
 ## Some stats
-
 
 Most commonly used licenses: 
 
