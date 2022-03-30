@@ -95,6 +95,12 @@ Please also note that licenses may have changed since I wrote them. This is not 
 &#127796; Attribute: Joaquim Baeta  
 &#128220; Text in this repo: copyright notice
 
+#### [Poetika: Jurnal Ilmu Sastra](https://jurnal.ugm.ac.id/poetika/index)
+&#9878; [Creative Commons Attribution-ShareAlike 4.0 International license](https://creativecommons.org/licenses/by-sa/4.0/)  
+&#128196; Journal retains copyright  
+&#127796; Attribute: Poetika: Jurnal Ilmu Sastra  
+&#128220; Text in this repo: copyright notice
+
 #### [Review of Primary Care Practice and Education](https://jurnal.ugm.ac.id/rpcpe) (RPCPE)
 &#9878; [Creative Commons Attribution-ShareAlike 4.0 International license](https://creativecommons.org/licenses/by-sa/4.0/)  
 &#128483; Authors retain copyright  
