@@ -9,7 +9,7 @@ Some of the content of this repo might overlap with that found in these other re
 
 ## Journals featured in this repo
 
-#### [ANIMA](http://www.journal.ubaya.ac.id/index.php/jpa)
+#### [ANIMA](https://journal.ubaya.ac.id/index.php/jpa)
 - License: [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International](http://creativecommons.org/licenses/by-nc-sa/4.0/)
 - Attribute: Joaquim Baeta
 - Included text:
