@@ -123,7 +123,7 @@ Please also note that licenses may have changed since I wrote them. This is not 
 
 Most commonly used licenses: 
 
-![](https://img.shields.io/badge/CC%20BY%204.0-2-brightgreen) ![](https://img.shields.io/badge/CC%20BY--SA%204.0-13-green) ![](https://img.shields.io/badge/CC%20BY--NC--SA%204.0-2-yellowgreen)
+![](https://img.shields.io/badge/CC%20BY%204.0-2-brightgreen) ![](https://img.shields.io/badge/CC%20BY--SA%204.0-14-green) ![](https://img.shields.io/badge/CC%20BY--NC--SA%204.0-2-yellowgreen)
 
 ---
 
