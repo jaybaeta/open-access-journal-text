@@ -71,6 +71,12 @@ Please also note that licenses may have changed since I wrote them. This is not 
 &#127796; Attribute: Jurnal Kesehatan Reproduksi  
 &#128220; Text in this repo: copyright notice, open access policy
 
+#### [Jurnal Nasional Teknik Elektro dan Teknologi Informasi](https://jurnal.ugm.ac.id/v3/JNTETI/index)
+&#9878; [Creative Commons Attribution-ShareAlike 4.0 International license](https://creativecommons.org/licenses/by-sa/4.0/)  
+&#128196; Journal retains copyright  
+&#127796; Attribute: Joaquim Baeta  
+&#128220; Text in this repo: copyright notice
+
 #### [Jurnal Rekayasa Proses](https://jurnal.ugm.ac.id/jrekpros) (J. Rek. Pros.)
 &#9878; [Creative Commons Attribution-ShareAlike 4.0 International license](https://creativecommons.org/licenses/by-sa/4.0/)  
 &#128483; Authors retain copyright  

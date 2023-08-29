@@ -24,8 +24,6 @@ By submitting to GamaJoP, authors grant any third party the right to use their a
 
 # Humaniora
 
-# Copyright notice
-
 Humaniora publishes its articles under the terms of the [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/), with copyright held by Humaniora. This means anyone can copy, transform, or redistribute articles for any lawful purpose in any medium, provided they give appropriate credit to the original author(s) and Humaniora, link to the license, indicate if changes were made, and redistribute any derivative work under the same license.
 
 By submitting to Humaniora, author(s) automatically agree to the transfer of their article’s copyright if it is accepted.
@@ -68,6 +66,21 @@ All articles published in Jurnal Kesehatan Reproduksi are licensed under a [Crea
 Both copyright and publishing rights on articles are retained by the respective author(s), without restrictions. However, a non-exclusive license is granted to Jurnal Kesehatan Reproduksi to publish the article and identify itself as its original publisher. 
 
 By submitting to Jurnal Kesehatan Reproduksi, authors acknowledge that any third party may use their article to the extent allowed by the CC BY 4.0  license, should their article be published.
+
+# Jurnal Nasional Teknik Elektro dan Teknologi Informasi
+
+## English
+
+All articles published by Jurnal Nasional Teknik Elektro dan Teknologi Informasi are done so under the terms of the [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/), with copyright held by the journal. This means anyone can copy, transform, or redistribute articles for any lawful purpose in any medium, provided they give appropriate credit to the original authors and Jurnal Nasional Teknik Elektro dan Teknologi Informasi, link to the license, indicate if changes were made, and redistribute any derivative work under the same license.
+
+By submitting to Jurnal Nasional Teknik Elektro dan Teknologi Informasi, authors automatically agree to the transfer of their article’s copyright if it is accepted, and recognize that any third party will have the right to use their article to the extent provided by the CC BY-SA license.
+
+## Bahasa Indonesia
+
+Semua artikel yang diterbitkan oleh Jurnal Nasional Teknik Elektro dan Teknologi Informasi dibuat berdasarkan ketentuan [Lisensi Creative Commons Atribusi-BerbagiSerupa 4.0 Internasional](https://creativecommons.org/licenses/by-sa/4.0/), dengan hak cipta dipegang oleh jurnal. Ini berarti siapa pun dapat menyalin, mengubah, atau mendistribusikan ulang artikel untuk tujuan apa pun yang sah dalam media apa pun, asalkan mereka memberikan kredit yang sesuai kepada penulis asli dan Jurnal Nasional Teknik Elektro dan Teknologi Informasi, tautan ke lisensi, menunjukkan jika ada perubahan, dan mendistribusikan ulang setiap karya turunan di bawah lisensi yang sama.
+
+Dengan mengirimkan ke Jurnal Nasional Teknik Elektro dan Teknologi Informasi, penulis secara otomatis menyetujui pengalihan hak cipta artikel mereka jika diterima, dan mengakui bahwa pihak ketiga mana pun berhak menggunakan artikel mereka sejauh yang ditentukan oleh CC BY-SA lisensi.
+
 
 # Jurnal Rekayasa Proses
 
