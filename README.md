@@ -9,7 +9,7 @@ Some of the content of this repo might overlap with that found in these other re
 
 Please also note that licenses may have changed since I wrote them. This is not a list of journals' present licenses but what was written for them.
 
-## ![](https://img.shields.io/badge/journals%20represented-18-blue) Journals featured in this repo
+## ![](https://img.shields.io/badge/journals%20represented-20-blue) Journals featured in this repo
 
 #### [ANIMA](https://journal.ubaya.ac.id/index.php/jpa)
 &#9878; [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International license](http://creativecommons.org/licenses/by-nc-sa/4.0/)  
@@ -71,6 +71,12 @@ Please also note that licenses may have changed since I wrote them. This is not 
 &#127796; Attribute: Jurnal Kesehatan Reproduksi  
 &#128220; Text in this repo: copyright notice, open access policy
 
+#### [Jurnal Lingua Applicata](https://jurnal.ugm.ac.id/jla)
+&#9878; [Creative Commons Attribution-ShareAlike 4.0 International license](https://creativecommons.org/licenses/by-sa/4.0/)  
+&#128483; Authors retain copyright  
+&#127796; Attribute: Joaquim Baeta  
+&#128220; Text in this repo: copyright notice
+
 #### [Jurnal Nasional Teknik Elektro dan Teknologi Informasi](https://jurnal.ugm.ac.id/v3/JNTETI/index)
 &#9878; [Creative Commons Attribution-ShareAlike 4.0 International license](https://creativecommons.org/licenses/by-sa/4.0/)  
 &#128196; Journal retains copyright  
@@ -129,7 +135,7 @@ Please also note that licenses may have changed since I wrote them. This is not 
 
 Most commonly used licenses: 
 
-![](https://img.shields.io/badge/CC%20BY%204.0-2-brightgreen) ![](https://img.shields.io/badge/CC%20BY--SA%204.0-13-green) ![](https://img.shields.io/badge/CC%20BY--NC--SA%204.0-2-yellowgreen)
+![](https://img.shields.io/badge/CC%20BY%204.0-2-brightgreen) ![](https://img.shields.io/badge/CC%20BY--SA%204.0-16-green) ![](https://img.shields.io/badge/CC%20BY--NC--SA%204.0-2-yellowgreen)
 
 ---
 
