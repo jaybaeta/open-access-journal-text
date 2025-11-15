@@ -16,6 +16,10 @@ This journal provides immediate open access to its content on the principle that
 
 All articles published in J. Rek. Pros. are distributed under a [Creative Commons Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/) (CC BY-SA 4.0) license and are immediately open access. We follow the Budapest Open Access Initiative’s (BOAI) [definition](http://www.budapestopenaccessinitiative.org/read) of open access, meaning readers may freely read, download, copy, print, share, link to the full text of articles, or use them for any other lawful purpose.
 
+# Reaktor
+
+Reaktor provides immediate open access to its content with the aim of advancing the free and open dissemination of knowledge across the fields of chemical engineering. All articles we publish are distributed under a [Creative Commons Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/) (CC BY-SA 4.0) license, with authors retaining copyright without restrictions.
+
 # Sciscitatio
 
 Sciscitatio provides immediate open access to its published articles, under the terms of the [Creative Commons Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/) (CC BY-SA) license. Whether as a reader or author, you are free to download, adapt, share, upload to a social network or institutional respository, or redistribute articles for any other lawful purpose in any medium, provided you give appropriate credit to the original author(s) and Sciscitatio, link to the [CC BY-SA](https://creativecommons.org/licenses/by-sa/4.0/) license, indicate if changes were made, and redistribute any derivative work under the same license.
