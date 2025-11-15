@@ -138,7 +138,7 @@ If accepted, authors will be asked to sign a copyright transfer agreement.
 
 # Sciscitatio
 
-Sciscitatio provides immediate open access to its published articles, under the terms of the [Creative Commons Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/) (CC BY-SA) license. Whether as a reader or author, you are free to download, adapt, share, upload to a social network or institutional respository, or redistribute articles for any other lawful purpose in any medium, provided you give appropriate credit to the original author(s) and Sciscitatio, link to the [CC BY-SA](https://creativecommons.org/licenses/by-sa/4.0/) license, indicate if changes were made, and redistribute any derivative work under the same license.
+Sciscitatio provides immediate open access to its published articles, under the terms of the [Creative Commons Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/) (CC BY-SA) license. Whether as a reader or author, you are free to download, adapt, share, upload to a social network or institutional repository, or redistribute articles for any other lawful purpose in any medium, provided you give appropriate credit to the original author(s) and Sciscitatio, link to the [CC BY-SA](https://creativecommons.org/licenses/by-sa/4.0/) license, indicate if changes were made, and redistribute any derivative work under the same license.
 
 ## Author rights
 
